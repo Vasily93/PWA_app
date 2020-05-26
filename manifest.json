@@ -1,0 +1,16 @@
+{
+    "name": "Vasily Markov",
+    "sthort_name": "Vasya",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/dish.png",
+            "type": "image/png",
+            "sizes": "145x145"
+        }
+    ]
+}
